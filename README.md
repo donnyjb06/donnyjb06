@@ -20,7 +20,7 @@
   <a href="https://www.facebook.com/share/15LcU5HasS/?mibextid=LQQJ4d" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="www.linkedin.com/in/donovan-jabbar-b99955302" target="_blank">
+  <a href="https://www.linkedin.com/in/donovan-jabbar-b99955302" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
